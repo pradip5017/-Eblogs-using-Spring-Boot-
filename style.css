@@ -1,0 +1,45 @@
+body{
+  height: 100%;
+  font-family: 'Roboto', sans-serif;
+  background-color:#F8F9FA;
+}
+
+.table-dark-custom{
+  background-color:#455067;
+  color:#ffffff;
+}
+
+.btn-dark-custom{
+  background-color:#455067;
+  color:#ffffff;
+}
+.row{
+  margin:0px;
+  padding:0px;
+}
+.container-fluid{
+  background-color:white;
+  padding:15px;
+}
+.powered-by-footer{
+  background-color:#455067;
+}
+.page-item.active .page-link {
+    background-color: #455067;
+    border-color: #455067;
+}
+.cursor-pointer {
+	cursor: pointer;
+}
+.dropdown-item:focus,
+.dropdown-item:hover {
+	background-color: #eee !important;
+}
+table {
+  table-layout: fixed;
+}
+.ellipsis {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
